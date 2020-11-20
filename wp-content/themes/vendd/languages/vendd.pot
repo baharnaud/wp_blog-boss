@@ -1,0 +1,1039 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Vendd\n"
+"POT-Creation-Date: 2017-07-30 15:53-0700\n"
+"PO-Revision-Date: 2017-07-30 15:52-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19 content/content-archive-download.php:88
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:27 content/content-archive-download.php:96
+msgid "Most Used Categories"
+msgstr ""
+
+#: archive.php:25
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:28
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:31
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:31
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:34
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:34
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:37 sidebar.php:14
+msgid "Archives"
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One response... "
+msgid_plural "%1$s responses... "
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:33
+msgid "add one"
+msgstr ""
+
+#: comments.php:39 comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:40 comments.php:57
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:41 comments.php:58
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: content/content-advanced-search.php:73
+msgctxt "advanced search results page search results title"
+msgid "Page Results"
+msgstr ""
+
+#: content/content-advanced-search.php:108
+msgctxt "advanced search results post search results title"
+msgid "Post Results"
+msgstr ""
+
+#: content/content-archive-download.php:14
+msgctxt "download category archive page title"
+msgid "Category"
+msgstr ""
+
+#: content/content-archive-download.php:16
+msgctxt "download tag archive page title"
+msgid "Tag"
+msgstr ""
+
+#: content/content-archive-download.php:72
+msgid "&laquo; Previous"
+msgstr ""
+
+#: content/content-archive-download.php:73
+msgid "Next  &raquo;"
+msgstr ""
+
+#: content/content-archive-download.php:84
+msgid "Oops! There's nothing to see here."
+msgstr ""
+
+#: content/content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: content/content-none.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content/content-none.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content/content-none.php:26
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content/content-page.php:24 content/content-single.php:28
+#: content/content.php:50 page_templates/focus.php:34
+#: page_templates/full-width.php:34 page_templates/landing.php:34
+msgid "Pages:"
+msgstr ""
+
+#: content/content-single.php:37 content/content-single.php:40
+#: inc/template-tags.php:116 inc/template-tags.php:127
+msgid ", "
+msgstr ""
+
+#: content/content-single.php:46
+#, php-format
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: content/content-single.php:48
+#, php-format
+msgid "Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: content/content-single.php:53
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: content/content-single.php:55
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: content/content.php:47 inc/customizer.php:221 inc/extras.php:31
+msgid "Continue reading"
+msgstr ""
+
+#: edd_templates/shortcode-content-price.php:2
+msgid "Starting at: "
+msgstr ""
+
+#: edd_templates/shortcode-content-price.php:4
+msgid "Price: "
+msgstr ""
+
+#: edd_templates/shortcode-content-price.php:6
+msgid "Free Download"
+msgstr ""
+
+#: edd_templates/shortcode-content-title.php:4
+msgid "by"
+msgstr ""
+
+#: fes_templates/frontend-orders.php:25
+msgctxt "FES vendor dashboard Order display"
+msgid "Price"
+msgstr ""
+
+#: fes_templates/frontend-orders.php:33
+msgctxt "FES vendor dashboard Order display"
+msgid "Customer"
+msgstr ""
+
+#: fes_templates/frontend-orders.php:41
+msgctxt "FES vendor dashboard Order display"
+msgid "Details"
+msgstr ""
+
+#: fes_templates/frontend-orders.php:59
+msgid "No orders found"
+msgstr ""
+
+#: fes_templates/frontend-products.php:28
+msgctxt "FES vendor dashboard Product display"
+msgid "Price"
+msgstr ""
+
+#: fes_templates/frontend-products.php:36
+msgctxt "FES vendor dashboard Product display"
+msgid "Purchases"
+msgstr ""
+
+#: fes_templates/frontend-products.php:44
+msgctxt "FES vendor dashboard Product display"
+msgid "Details"
+msgstr ""
+
+#: fes_templates/frontend-products.php:62
+msgid "No items found"
+msgstr ""
+
+#: functions.php:59
+msgid "Information Bar Menu"
+msgstr ""
+
+#: functions.php:60
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:113
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:124
+msgid "Download Sidebar"
+msgstr ""
+
+#: header.php:21
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:88
+#, php-format
+msgid "Cart total: %s"
+msgstr ""
+
+#: header.php:95
+msgid "Menu"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:152
+#, php-format
+msgid "%s License Key & Child Theme Management"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:154
+#, php-format
+msgid "Activate Your %s License Key"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:156
+msgid ""
+"Your license key grants you access to theme updates and support. If your "
+"license key is deactivated or expired, your theme will work properly but you "
+"will not receive automatic updates."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:159
+msgid "License activation instructions"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:161
+msgid "Enter your license key."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:162
+msgid "Click the \"Save License Key Changes\" button."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:163
+msgid "Click the new \"Activate License\" button."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:164
+msgid ""
+"You're done! The status of your license displays below the License Key field."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:204
+#, php-format
+msgid "How to Create a Child Theme for %1$s"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:206
+msgid ""
+"Through FTP, navigate to <code>your_website/wp-content/themes/</code> and in "
+"that directory, create a new folder as the name of your child theme. "
+"Something like <code>vendd-child</code> is perfect."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:207
+msgid ""
+"Inside of your new folder, create a file called <code>style.css</code> (the "
+"name is NOT optional)."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:208
+msgid "Inside of your new <code>style.css</code> file, add the following CSS:"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:223
+#, php-format
+msgid ""
+"You may edit all of what you pasted EXCEPT for the <code>Template: vendd</"
+"code> line. Leave that line alone or the child theme will not attach itself "
+"to %s."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:224
+msgid ""
+"Also inside of your folder, create another file called <code>functions.php</"
+"code> (the name is NOT optional)."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:225
+msgid ""
+"Inside of your new, blank <code>functions.php</code> file, add the following "
+"PHP:"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:239
+msgid ""
+"With your new child theme folder in place, the above CSS pasted inside of "
+"your <code>style.css</code> file, and the above PHP pasted inside of your "
+"<code>functions.php</code> file, go back to your WordPress dashboard and "
+"navigate to \"Appearance -> Themes\" and locate your new theme (you'll see "
+"the name you chose). Activate your theme."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:240
+msgid ""
+"With your child theme activated, you can edit its stylesheet all you like. "
+"You may also add custom functions to your new functions file."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:241
+msgid "Enjoy!"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:245
+#, php-format
+msgid "You are currently using a child theme for %s."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:29
+msgctxt "part of the WordPress dashboard Vendd menu title"
+msgid " License"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:30
+msgid "Enter your theme license key."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:31
+msgid "License Key"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:32
+msgid "License Action"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:33
+msgid "Deactivate License"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:34
+msgid "Activate License"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:35
+#: inc/admin/updater/theme-updater.php:48
+msgid "License status is unknown."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:36
+msgid "Renew?"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:37
+msgid "unlimited"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:38
+msgid "License key is active."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:39
+#, php-format
+msgid "Expires %s."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:40
+msgid "Lifetime License."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:41
+#, php-format
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:42
+#, php-format
+msgid "License key expired %s."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:43
+msgid "License key has expired."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:44
+msgid "License keys do not match."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:45
+msgid "License is inactive."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:46
+msgid "License key is disabled."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:47
+msgid "Site is inactive."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:49
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:50
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</"
+"a>."
+msgstr ""
+
+#: inc/admin/widgets.php:28
+msgid "Download Author"
+msgstr ""
+
+#: inc/admin/widgets.php:30
+msgid ""
+"Display the download author's details such as join date and social "
+"networking links."
+msgstr ""
+
+#: inc/admin/widgets.php:85 sidebar-download.php:48
+msgid "Author:"
+msgstr ""
+
+#: inc/admin/widgets.php:99 sidebar-download.php:62
+msgid "Author since:"
+msgstr ""
+
+#: inc/admin/widgets.php:161
+msgctxt "title attribute of the FES vendor's website link"
+msgid "'s website"
+msgstr ""
+
+#: inc/admin/widgets.php:200 inc/admin/widgets.php:392
+msgid "Only for use in Download Sidebar"
+msgstr ""
+
+#: inc/admin/widgets.php:202 inc/admin/widgets.php:394
+msgid "Title:"
+msgstr ""
+
+#: inc/admin/widgets.php:203
+msgid "Leave empty for no title (recommended)"
+msgstr ""
+
+#: inc/admin/widgets.php:207
+msgid "Show Author Avatar"
+msgstr ""
+
+#: inc/admin/widgets.php:211
+msgid "Show Store Name"
+msgstr ""
+
+#: inc/admin/widgets.php:215
+msgid "Show Author Name"
+msgstr ""
+
+#: inc/admin/widgets.php:219
+msgid "Show Author Sign-up Date"
+msgstr ""
+
+#: inc/admin/widgets.php:223
+msgid "Show Author Social Links"
+msgstr ""
+
+#: inc/admin/widgets.php:267 sidebar-download.php:146
+msgid "Download Details"
+msgstr ""
+
+#: inc/admin/widgets.php:269
+msgid "Display the download details such as date published and total sales."
+msgstr ""
+
+#: inc/admin/widgets.php:312 sidebar-download.php:158
+msgid "Published:"
+msgstr ""
+
+#: inc/admin/widgets.php:319 sidebar-download.php:164
+msgid "Sales:"
+msgstr ""
+
+#: inc/admin/widgets.php:327 sidebar-download.php:171
+msgid "Licensed:"
+msgstr ""
+
+#: inc/admin/widgets.php:328 sidebar-download.php:172
+msgid "Yes"
+msgstr ""
+
+#: inc/admin/widgets.php:328 sidebar-download.php:172
+msgid "No"
+msgstr ""
+
+#: inc/admin/widgets.php:334 sidebar-download.php:176
+msgid "Current Version:"
+msgstr ""
+
+#: inc/admin/widgets.php:335 sidebar-download.php:177
+msgid "Unversioned"
+msgstr ""
+
+#: inc/admin/widgets.php:344 sidebar-download.php:185
+msgid "Categories:"
+msgstr ""
+
+#: inc/admin/widgets.php:355 sidebar-download.php:195
+msgid "Tags:"
+msgstr ""
+
+#: inc/admin/widgets.php:399
+msgid "Show Published Date"
+msgstr ""
+
+#: inc/admin/widgets.php:403
+msgid "Show Sales Total"
+msgstr ""
+
+#: inc/admin/widgets.php:408
+msgid "Show License Status"
+msgstr ""
+
+#: inc/admin/widgets.php:412
+msgid "Show Version Number"
+msgstr ""
+
+#: inc/admin/widgets.php:417
+msgid "Show Categories"
+msgstr ""
+
+#: inc/admin/widgets.php:421
+msgid "Show Tags"
+msgstr ""
+
+#: inc/customizer.php:81
+msgid "Site Title (Logo) & Tagline"
+msgstr ""
+
+#: inc/customizer.php:94
+msgid "Custom Site Logo (replaces title)"
+msgstr ""
+
+#: inc/customizer.php:110
+msgid "Hide Tagline"
+msgstr ""
+
+#: inc/customizer.php:121
+msgid "Vendd Design"
+msgstr ""
+
+#: inc/customizer.php:122
+msgid "Control the primary design color of your site."
+msgstr ""
+
+#: inc/customizer.php:132
+msgid "Enable full-width HTML structure"
+msgstr ""
+
+#: inc/customizer.php:146
+msgid "Primary Design Color"
+msgstr ""
+
+#: inc/customizer.php:158
+msgid ""
+"The effects of the following design controls may not be apparent if the full-"
+"width HTML structure setting is enabled."
+msgstr ""
+
+#: inc/customizer.php:169
+msgid "Full Site Background Color"
+msgstr ""
+
+#: inc/customizer.php:181
+msgid "Full Site Background Image"
+msgstr ""
+
+#: inc/customizer.php:191
+msgid "Enable Parallax Background Effect"
+msgstr ""
+
+#: inc/customizer.php:202
+msgid "Content Options"
+msgstr ""
+
+#: inc/customizer.php:203
+msgid ""
+"Adjust the display of content on your website. All options have a default "
+"value that can be left as-is but you are free to customize."
+msgstr ""
+
+#: inc/customizer.php:213
+msgid "Display Post Excerpts"
+msgstr ""
+
+#: inc/customizer.php:225
+msgid "Excerpt & More Link Text"
+msgstr ""
+
+#: inc/customizer.php:227
+msgid ""
+"This is the link text displayed at the end of blog post excerpts and content "
+"truncated with the \"more tag.\" No HTML allowed."
+msgstr ""
+
+#: inc/customizer.php:237
+msgid "Show Featured Images in Post Listings"
+msgstr ""
+
+#: inc/customizer.php:249
+msgid "Show Featured Images on Single Posts"
+msgstr ""
+
+#: inc/customizer.php:261
+msgid "Show Featured Images on Pages"
+msgstr ""
+
+#: inc/customizer.php:273
+msgid "Enable Comments on Standard Pages"
+msgstr ""
+
+#: inc/customizer.php:285
+msgid "Show search in Main Menu"
+msgstr ""
+
+#: inc/customizer.php:297
+msgid "Use Advanced Search Results"
+msgstr ""
+
+#: inc/customizer.php:309
+msgid "Information Bar Text"
+msgstr ""
+
+#: inc/customizer.php:311
+msgid ""
+"This text appears at the very top of your site aligned to the left. Allowed "
+"tags:"
+msgstr ""
+
+#: inc/customizer.php:321
+msgid "Footer Credits & Copyright"
+msgstr ""
+
+#: inc/customizer.php:323
+msgid ""
+"Displays site title, tagline, copyright, and year by default. Allowed tags: "
+msgstr ""
+
+#: inc/customizer.php:332
+msgid "Social Profiles"
+msgstr ""
+
+#: inc/customizer.php:333
+msgid ""
+"Enter the <strong>full URLs</strong> for your social profiles. They will "
+"display in various areas around the theme."
+msgstr ""
+
+#: inc/customizer.php:343
+msgid "Show social profiles in Information Bar?"
+msgstr ""
+
+#: inc/customizer.php:360
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer.php:364
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer.php:368
+msgid "Google+"
+msgstr ""
+
+#: inc/customizer.php:372
+msgid "GitHub"
+msgstr ""
+
+#: inc/customizer.php:376
+msgid "Instagram"
+msgstr ""
+
+#: inc/customizer.php:380
+msgid "Tumblr"
+msgstr ""
+
+#: inc/customizer.php:384
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/customizer.php:388
+msgid "YouTube"
+msgstr ""
+
+#: inc/customizer.php:392
+msgid "Slack"
+msgstr ""
+
+#: inc/customizer.php:396
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer.php:400
+msgid "Dribbble"
+msgstr ""
+
+#: inc/customizer.php:404
+msgid "WordPress"
+msgstr ""
+
+#: inc/customizer.php:408
+msgid "Etsy"
+msgstr ""
+
+#: inc/customizer.php:431
+msgid "Easy Digital Downloads"
+msgstr ""
+
+#: inc/customizer.php:432
+msgid ""
+"All other EDD options are under Dashboard => Downloads. If you deactivate "
+"EDD, these options will no longer appear."
+msgstr ""
+
+#: inc/customizer.php:442
+msgid "Show Featured Images on Products"
+msgstr ""
+
+#: inc/customizer.php:454
+msgid "Default Product Image"
+msgstr ""
+
+#: inc/customizer.php:456
+msgid ""
+"Recommended: default product image should be the same dimensions as your "
+"uploaded Download Images (if used). Vendd default product image crop "
+"dimensions: 722px 361px."
+msgstr ""
+
+#: inc/customizer.php:467
+msgid "Use Default Product Image Fallback"
+msgstr ""
+
+#: inc/customizer.php:479
+msgid "Show Comments on Downloads"
+msgstr ""
+
+#: inc/customizer.php:491
+msgid "Show Categories on Downloads grid"
+msgstr ""
+
+#: inc/customizer.php:503
+msgid "Show Tags on Downloads grid"
+msgstr ""
+
+#: inc/customizer.php:549
+msgid "EDD Button Color"
+msgstr ""
+
+#: inc/customizer.php:551
+msgid ""
+"By default, this will match what you set in the EDD Style Settings. "
+"Selecting another color here will override the EDD setting. Clear the color "
+"field back to default to revert back to the EDD setting."
+msgstr ""
+
+#: inc/customizer.php:561
+msgid "EDD Downloads Template Title"
+msgstr ""
+
+#: inc/customizer.php:563
+msgid ""
+"This optional field allows you to replace the title of your EDD Downloads "
+"Page Template. If left blank, the title of the page will show instead. "
+"Allowed tags:"
+msgstr ""
+
+#: inc/customizer.php:573
+msgid "Empty Cart Title"
+msgstr ""
+
+#: inc/customizer.php:575
+msgid ""
+"This is the title on the page that displays when the cart is empty. Allowed "
+"tags:"
+msgstr ""
+
+#: inc/customizer.php:585
+msgid "Empty Cart Text"
+msgstr ""
+
+#: inc/customizer.php:587
+msgid ""
+"Displays a custom message when the checkout cart is empty. Allowed tags: "
+msgstr ""
+
+#: inc/customizer.php:597
+msgid "Empty Cart Downloads Count"
+msgstr ""
+
+#: inc/customizer.php:599
+msgid ""
+"Enter the number of downloads you would like to display on the checkout page "
+"when the cart is empty. Additional downloads are available through "
+"pagination."
+msgstr ""
+
+#: inc/customizer.php:611
+msgid "EDD Frontend Submissions"
+msgstr ""
+
+#: inc/customizer.php:612
+msgid ""
+"All other FES options are under Dashboard => EDD FES. If you deactivate EDD "
+"or FES, these options will no longer appear."
+msgstr ""
+
+#: inc/customizer.php:622
+msgid "FES Dashboard Title"
+msgstr ""
+
+#: inc/customizer.php:624
+msgid ""
+"This optional field allows you to replace the title of your FES Dashboard. "
+"If left blank, the title of the page will show instead. Allowed tags:"
+msgstr ""
+
+#: inc/customizer.php:634
+msgid "Show contact form on Vendor template"
+msgstr ""
+
+#: inc/edd-functions.php:76
+msgctxt "cart widget output when there are no items in the cart"
+msgid "Your cart is empty."
+msgstr ""
+
+#: inc/edd-functions.php:85
+msgctxt ""
+"default title output on checkout page when there are no items in the cart"
+msgid "Your cart is empty."
+msgstr ""
+
+#: inc/extras.php:165
+msgid "Twitter Profile URL"
+msgstr ""
+
+#: inc/extras.php:166
+msgid "Facebook Profile URL"
+msgstr ""
+
+#: inc/extras.php:167
+msgid "Google Plus Profile URL"
+msgstr ""
+
+#: inc/extras.php:168
+msgid "YouTube Profile URL"
+msgstr ""
+
+#: inc/fes-functions.php:70
+#, php-format
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: inc/template-tags.php:19
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:23
+msgid "Older posts"
+msgstr ""
+
+#: inc/template-tags.php:27
+msgid "Newer posts"
+msgstr ""
+
+#: inc/template-tags.php:51
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:54
+msgid "Previous Post"
+msgstr ""
+
+#: inc/template-tags.php:54
+msgctxt "Previous post link"
+msgid "%title"
+msgstr ""
+
+#: inc/template-tags.php:55
+msgid "Next Post"
+msgstr ""
+
+#: inc/template-tags.php:55
+msgctxt "Next post link"
+msgid "%title"
+msgstr ""
+
+#: inc/template-tags.php:100
+msgid "Comments"
+msgstr ""
+
+#: inc/template-tags.php:100
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:100
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:159
+msgid "Pingback: "
+msgstr ""
+
+#: inc/template-tags.php:161
+msgid " (Edit) "
+msgstr ""
+
+#: inc/template-tags.php:179
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:184
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:190
+msgid "post author"
+msgstr ""
+
+#: inc/template-tags.php:198
+msgid "(Edit)"
+msgstr ""
+
+#: inc/template-tags.php:209
+msgid "Reply"
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: searchform.php:8
+msgid "Search for:"
+msgstr ""
+
+#: sidebar-download.php:130
+msgid "Homepage"
+msgstr ""
+
+#: sidebar.php:25
+msgid "Meta"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Vendd"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://easydigitaldownloads.com/downloads/vendd"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Vendd is a full-featured marketplace theme for Easy Digital Downloads and "
+"supporting extensions."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "EDD Team"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://easydigitaldownloads.com"
+msgstr ""

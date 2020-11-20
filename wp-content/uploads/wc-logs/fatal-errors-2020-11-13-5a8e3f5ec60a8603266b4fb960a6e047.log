@@ -1,0 +1,4 @@
+2020-11-13T22:04:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\wamp64\www\wp_blog-boss\wp-content\plugins\elementor\includes\managers\controls.php à la ligne 510
+
+2020-11-13T23:38:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\wamp64\www\wp_blog-boss\wp-content\plugins\elementor\core\kits\documents\kit.php à la ligne 11
+

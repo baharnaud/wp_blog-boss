@@ -1,0 +1,6 @@
+2020-11-10T12:48:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\wp_blog-boss\wp-admin\includes\class-wp-filesystem-direct.php on line 80
+
+2020-11-10T22:48:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\wp_blog-boss\wp-includes\l10n.php on line 741
+
+ 173
+

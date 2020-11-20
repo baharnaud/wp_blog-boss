@@ -1,0 +1,144 @@
+/*
+Theme Name:     Vendd Child
+Theme URI:      https://teconce.com
+Description:    Wordpress Theme With Easy Digital Download & Awesome Options.
+Author:         Teconce Team
+Author URI:     https://teconce.com/
+Version:        2.6.0
+Template:       vendd
+
+*/
+#info-bar-navigation,
+.site-header,
+.site-footer{
+    display: none !important;
+}
+/*home*/
+a{
+	color:inherit;
+}
+.btn-style.elementor-button-link.elementor-button.elementor-size-sm {
+    width: 100%;
+    max-width: 180px;
+    display: inline-block;
+    background-color: #fff !important;
+    padding: 1em 0.3em !important;
+    margin: auto;
+}
+/*home*/
+/*article*/
+#article-blog .elementor-post__text {
+    padding: 19px;
+    background: #fff;
+    border: 1px solid #d8d8d8;
+    margin-top: -21px;
+}
+#post-categorie .elementor-post__text {
+    padding-top: 50px;
+    padding-right: 20px;
+}
+.category-categorie {
+    background: #fff;
+}
+#post-categorie .elementor-post__read-more {
+    display: inline-block;
+    background-color: #333;
+    padding: 5px 10px;
+    color: #FFF !important;
+    margin-left: 120px;
+}
+#post-categorie .elementor-post__read-more:hover {
+    background-color: #d5f5fa;
+    color: #333 !important;
+}
+.product-type-simple {
+    padding-bottom: 2em!important;
+    background-color: #fff;
+}
+
+
+/*article*/
+.titre-post .elementor-heading-title.elementor-size-default {
+    background-color: #fff;
+    text-align: center;
+    padding: 1.5em;
+}
+.liste-style .elementor-icon-list-item {
+    padding: 1.2em 0.5em !important;
+    background-color: #fff;
+}
+/*formulaire*/
+.formule input {
+    padding: 15px;
+    border-radius: 3px;
+    font-size: 14px;
+    width: 100%;
+    border: 1px solid #bbb;
+    color: #4e4e4e;
+    background-color: #fff;
+    font-family: arimo;
+    margin-bottom: 10px;
+}
+.formule label {
+    color: #333;
+    font-family: Montserrat, Helvetica, Arial, Lucida, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+}
+.formule-woocommerce {
+    border: 1px solid #d3ced2;
+    padding: 20px;
+    margin: 2em 0;
+    text-align: left;
+    border-radius: 5px;
+}
+.star {
+    color: red;
+    font-weight: 700;
+    border: 0 !important;
+    text-decoration: none;
+    visibility: visible;
+}
+.web-style {
+    display: flex;
+}
+.web-style .wpcf7-form-control.wpcf7-submit {
+    color: #333333;
+    padding: .3em 1em !important;
+    font-size: 12px;
+    background: #ffb2a0;
+    border-width: 0px !important;
+    border-radius: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 4px;
+}
+.wpcf7-form-control-wrap.checkbox-228 {
+    font-family: Montserrat, Helvetica, Arial, Lucida, sans-serif;
+    font-size: 14px;
+    line-height: 28px;
+    font-weight: 500;
+}
+.page-style {
+    color: #ffb2a0;
+    font-family: Montserrat, Helvetica, Arial, Lucida, sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 500;
+}
+/*formulaire*/
+#cart-type p {
+    padding: 20px !important;
+    background: #d5f5fa !important;
+}
+.sub-menu{
+border-top: 3px solid #264d30!important;
+padding: 20px 0 !important;
+}
+#boss-blog2 {
+    width: 1110px !important;
+    margin: auto;
+}
